@@ -58,6 +58,7 @@ img{
     display: flex;
     margin-top: 17px;
     overflow-x: scroll;
+    width: 93%;
 }
 .item-menu{
     width: 172px;
@@ -101,7 +102,7 @@ ion-icon{
     color: #000000;
 }
 
-.primeiro {
+.item-menu:first-child{
     margin-left: 0;
 }
 .footer{
